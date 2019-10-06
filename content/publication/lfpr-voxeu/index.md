@@ -1,5 +1,11 @@
 ---
 title: "Understanding the decline in the labour force participation rate in the United States"
+authors:
+ - admin
+ - Steven Braun
+ - Jason Furman
+ - Betsey Stevenson
+ - Jim Stock
 date: 2014-08-18T16:32:48-04:00
 draft: false
 publication_types: ["0"]
