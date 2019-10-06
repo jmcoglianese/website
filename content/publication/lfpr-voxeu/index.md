@@ -1,8 +1,8 @@
 ---
 title: "Understanding the decline in the labour force participation rate in the United States"
 authors:
- - admin
  - Steven Braun
+ - admin
  - Jason Furman
  - Betsey Stevenson
  - Jim Stock
