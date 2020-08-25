@@ -11,3 +11,6 @@ links:
  - name: "NBER Working Paper"
    url: "https://www.nber.org/papers/w27566"
 ---
+
+## Press:
+ - Washington Post: [As permanent economic damage piles up, the Covid Crisis is looking more like the Great Recession](https://www.washingtonpost.com/business/2020/08/25/permanent-economic-damage-piles-up-covid-crisis-is-looking-more-like-great-recession/) [(pdf)](Washington Post - As permanent economic damage piles up, the Covid Crisis is looking more like the Great Recession - The Washington Post.pdf)
