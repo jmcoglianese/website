@@ -11,3 +11,8 @@ image:
   focal_point: "Top"
   preview_only: false
 ---
+
+## Press:
+ - New York Times: [Why Women Quit Working: It’s Not for the Reasons Men Do](https://www.nytimes.com/2017/01/24/business/economy/women-labor-force.html) [(pdf)](NYT%20-%20Why%20Women%20Quit%20Working%20It’s%20Not%20for%20the%20Reasons%20Men%20Do%20-%20The%20New%20York%20Times.pdf); [Why Aren't More Men Working?](https://www.nytimes.com/2018/06/15/business/men-unemployment-jobs.html) [(pdf)](NYT%20-%20Why%20Aren’t%20More%20Men%20Working?%20-%20The%20New%20York%20Times.pdf)
+ - Wall Street Journal: [Real Time Economics: The State of the Economy and of Economics](https://blogs.wsj.com/economics/2019/01/07/real-time-economics-the-state-of-economics/) [(pdf)](WSJ%20-%20Real%20Time%20Economics:%20The%20State%20of%20the%20Economy%20and%20of%20Economics.pdf)
+ - Marginal Revolution: [Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2017/11/wednesday-assorted-links-132.html) [(pdf)](MargRev%20-%20Wednesday%20assorted%20links%20-%20Marginal%20REVOLUTION.pdf)
