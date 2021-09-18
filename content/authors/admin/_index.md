@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economist
+role: Senior Economist
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,6 @@ email: ""
 # - Visitors
 ---
 
-John Coglianese in an economist at the Federal Reserve Board of Governors. His research focuses on the macroeconomics of labor markets, including such topics as the macro effects of unemployment insurance, declining labor force participation among prime-age men, and seasonal work in the US. 
+John Coglianese is a senior economist at the Federal Reserve Board of Governors. His research focuses on the macroeconomics of labor markets, including such topics as the macro effects of unemployment insurance, labor force participation, and the labor market effects of monetary policy. 
 
 This is a personal website. Any views presented on this website are my own and do not necessarily represent the views or policies of the Board of Governors of the Federal Reserve System or its staff. My official website is located [here](https://www.federalreserve.gov/econres/john-m-coglianese.htm).
