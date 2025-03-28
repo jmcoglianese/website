@@ -4,11 +4,11 @@ authors:
  - Tomaz Cajner
  - admin
  - Joshua Montes
-date: 2021-07-06T00:00:00-00:00
+date: 2025-02-06T00:00:00-00:00
 draft: false
 publication_types: ["3"]
 featured: true
-abstract: "How cyclical is the U.S. labor force participation rate (LFPR)? We examine its response to exogenous state-level business cycle shocks, finding that the LFPR is highly cyclical, but with a significantly longer-lived response than the unemployment rate. The LFPR declines after a negative shock for about four years—--well beyond when the unemployment rate has begun to recover—and takes about eight years to fully recover after the shock. The decline and recovery of the LFPR is largely driven by individuals with home and family responsibilities, as well as by younger individuals spending time in school. Our main specifications measure cyclicality from the response of the age-adjusted LFPR, and we show that it is problematic to use the unadjusted LFPR when estimating cyclicality because local shocks spur changes in the population of high-LFPR age groups through migration. LFPR cyclicality varies across groups, with larger and longer-lived responses among men, younger workers, less-educated workers, and Black workers."
+abstract: "How cyclical is the U.S. labor force participation rate (LFPR)? We examine exogenous state-level business cycle shocks, ﬁnding that the LFPR is highly cyclical, but with signiﬁcantly longer-lived responses than the unemployment rate. After a negative shock, the LFPR declines for about four years—substantially lagging unemployment—and only fully recovers after about eight years. Our main speciﬁcations use age-sex-adjusted LFPR, and we show that using the unadjusted LFPR is problematic because local shocks spur changes in the population of high-LFPR age groups. LFPR cyclicality varies across groups, with larger and longer-lived responses among men, younger workers, less-educated workers, and Black workers."
 image:
   focal_point: "Top"
   preview_only: false
