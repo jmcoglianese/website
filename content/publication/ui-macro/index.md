@@ -12,4 +12,6 @@ abstract: "By how much does an extension of unemployment benefits affect macroec
 links:
  - name: "Publisher's Version"
    url: "https://doi.org/10.1093/qje/qjy018"
+ - name: "Replication package"
+   url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DVGSZS"
 ---

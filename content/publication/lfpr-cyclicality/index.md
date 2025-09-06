@@ -16,6 +16,8 @@ image:
 links:
  - name: "FEDS Working Paper"
    url: "https://www.federalreserve.gov/econres/feds/files/2021047pap.pdf"
+ - name: "Replication package"
+   url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5RKSRE"
 ---
 
 ## Press:

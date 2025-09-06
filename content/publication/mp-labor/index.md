@@ -13,5 +13,8 @@ abstract: "We analyze a monetary quasi-experiment in Sweden from 2010–2011, wh
 image:
   focal_point: "Top"
   preview_only: false
+links:
+ - name: "Replication package"
+   url: "https://www.openicpsr.org/openicpsr/project/228051/version/V1/view"
 ---
 
