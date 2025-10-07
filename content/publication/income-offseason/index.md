@@ -15,4 +15,6 @@ image:
 links:
  - name: "FEDS Working Paper"
    url: "https://www.federalreserve.gov/econres/feds/files/2020084pap.pdf"
+ - name: "Replication package"
+   url: "https://www.openicpsr.org/openicpsr/project/238636/version/V1/view"
 ---
