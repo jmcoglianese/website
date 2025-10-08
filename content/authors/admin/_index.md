@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Economist
+role: Principal Economist
 
 # Organizations/Affiliations
 organizations:
