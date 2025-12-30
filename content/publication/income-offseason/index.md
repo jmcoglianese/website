@@ -13,6 +13,8 @@ image:
   focal_point: "Top"
   preview_only: false
 links:
+ - name: "Publisher's Version"
+   url: "https://doi.org/10.1177/00197939251406145"
  - name: "FEDS Working Paper"
    url: "https://www.federalreserve.gov/econres/feds/files/2020084pap.pdf"
  - name: "Replication package"
